@@ -1,0 +1,38 @@
+{
+  "name": "nextjs-hasura-firebase-react-query-1",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "1.0.6",
+    "@next/font": "13.1.6",
+    "@reduxjs/toolkit": "^1.9.2",
+    "@types/node": "18.11.18",
+    "@types/react": "18.0.27",
+    "@types/react-dom": "18.0.10",
+    "eslint": "8.33.0",
+    "eslint-config-next": "13.1.6",
+    "firebase": "8.10.0",
+    "graphql": "^16.6.0",
+    "graphql-request": "^5.1.0",
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-query": "3.39.0",
+    "react-query-devtools": "^2.6.3",
+    "react-redux": "^8.0.5",
+    "typescript": "4.9.5",
+    "universal-cookie": "^4.0.4"
+  },
+  "devDependencies": {
+    "@types/react-redux": "^7.1.25",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4"
+  }
+}
